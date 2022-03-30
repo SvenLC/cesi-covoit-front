@@ -23,6 +23,14 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+.AppBar{
+  margin-bottom: 30px;
+}
+header{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
 
 .App-link {
   color: #61dafb;
