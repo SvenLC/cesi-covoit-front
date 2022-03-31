@@ -1,10 +1,8 @@
-import logo from './logo.svg';
 import './App.css';
 import AppBar from './components/appBar/appBar.js';
-import AppTextField from './components/appTextField/appTextField.js';
 import AppButtonSearch from './components/appButtonSearch/appButtonSearch.js';
-import AppButtonAdd from './components/appButtonAdd/appButtonAdd.js';
 import AppCard from './components/appCard/appCard.js';
+import AppTextField from './components/appTextField/appTextField.js';
 
 function App() {
   return (
